@@ -1,7 +1,7 @@
 Persisting Natural Key Entities with Spring Data JPA
 ===============
 
-code example for http://dkublik.github.io/persisting-natural-key-entities-with-spring-data-jpa/
+code example for https://dkublik.github.io/2016/11/20/persisting-natural-key-entities-with-spring-data-jpa.html
 
 
 ## Requirements
